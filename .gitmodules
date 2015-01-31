@@ -20,3 +20,6 @@
 [submodule "vendor/com/github/oxyc/bash-boilerplate"]
 	path = vendor/com/github/oxyc/bash-boilerplate
 	url = https://github.com/oxyc/bash-boilerplate.git
+[submodule "vendor/com/github/alphabetum/bash-boilerplate"]
+	path = vendor/com/github/alphabetum/bash-boilerplate
+	url = https://github.com/alphabetum/starters.git
