@@ -26,3 +26,6 @@
 [submodule "vendor/com/github/connermcd/bash-boilerplate"]
 	path = vendor/com/github/connermcd/bash-boilerplate
 	url = https://github.com/connermcd/bash-boilerplate
+[submodule "vendor/com/github/chrisopedia/bash-boilerplate"]
+	path = vendor/com/github/chrisopedia/bash-boilerplate
+	url = https://github.com/chrisopedia/bash-boilerplate
