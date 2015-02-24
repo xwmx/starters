@@ -29,3 +29,6 @@
 [submodule "vendor/com/github/chrisopedia/bash-boilerplate"]
 	path = vendor/com/github/chrisopedia/bash-boilerplate
 	url = https://github.com/chrisopedia/bash-boilerplate
+[submodule "vendor/com/github/alebcay/awesome-shell"]
+	path = vendor/com/github/alebcay/awesome-shell
+	url = https://github.com/alebcay/awesome-shell.git
