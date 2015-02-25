@@ -44,3 +44,6 @@
 [submodule "vendor/com/github/jmcantrell/bashful"]
 	path = vendor/com/github/jmcantrell/bashful
 	url = https://github.com/jmcantrell/bashful.git
+[submodule "vendor/com/github/sstephenson/bats"]
+	path = vendor/com/github/sstephenson/bats
+	url = https://github.com/sstephenson/bats.git
