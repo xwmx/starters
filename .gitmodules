@@ -32,3 +32,6 @@
 [submodule "vendor/com/github/alebcay/awesome-shell"]
 	path = vendor/com/github/alebcay/awesome-shell
 	url = https://github.com/alebcay/awesome-shell.git
+[submodule "vendor/com/github/basecamp/sub"]
+	path = vendor/com/github/basecamp/sub
+	url = https://github.com/basecamp/sub.git
