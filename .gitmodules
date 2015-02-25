@@ -35,3 +35,6 @@
 [submodule "vendor/com/github/basecamp/sub"]
 	path = vendor/com/github/basecamp/sub
 	url = https://github.com/basecamp/sub.git
+[submodule "vendor/com/github/Mosai/workshop"]
+	path = vendor/com/github/Mosai/workshop
+	url = https://github.com/Mosai/workshop.git
