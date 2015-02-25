@@ -38,3 +38,6 @@
 [submodule "vendor/com/github/Mosai/workshop"]
 	path = vendor/com/github/Mosai/workshop
 	url = https://github.com/Mosai/workshop.git
+[submodule "vendor/com/github/erichs/composure"]
+	path = vendor/com/github/erichs/composure
+	url = https://github.com/erichs/composure.git
