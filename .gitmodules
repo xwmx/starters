@@ -41,3 +41,6 @@
 [submodule "vendor/com/github/erichs/composure"]
 	path = vendor/com/github/erichs/composure
 	url = https://github.com/erichs/composure.git
+[submodule "vendor/com/github/jmcantrell/bashful"]
+	path = vendor/com/github/jmcantrell/bashful
+	url = https://github.com/jmcantrell/bashful.git
