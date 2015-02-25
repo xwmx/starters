@@ -47,3 +47,6 @@
 [submodule "vendor/com/github/sstephenson/bats"]
 	path = vendor/com/github/sstephenson/bats
 	url = https://github.com/sstephenson/bats.git
+[submodule "vendor/com/github/rylnd/shpec"]
+	path = vendor/com/github/rylnd/shpec
+	url = https://github.com/rylnd/shpec.git
