@@ -53,3 +53,6 @@
 [submodule "vendor/com/github/thinkerbot/ts"]
 	path = vendor/com/github/thinkerbot/ts
 	url = https://github.com/thinkerbot/ts.git
+[submodule "vendor/com/github/kriasoft/react-starter-kit"]
+	path = vendor/com/github/kriasoft/react-starter-kit
+	url = https://github.com/kriasoft/react-starter-kit.git
