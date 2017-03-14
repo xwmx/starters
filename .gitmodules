@@ -56,3 +56,6 @@
 [submodule "vendor/com/github/kriasoft/react-starter-kit"]
 	path = vendor/com/github/kriasoft/react-starter-kit
 	url = https://github.com/kriasoft/react-starter-kit.git
+[submodule "vendor/com/github/davezuko/react-redux-starter-kit"]
+	path = vendor/com/github/davezuko/react-redux-starter-kit
+	url = https://github.com/davezuko/react-redux-starter-kit.git
